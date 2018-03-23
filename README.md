@@ -13,7 +13,7 @@ $ cd /path/to/project (ie. /var/www)
 $ git clone from git repo
 $ cd lando-sample
 $ wget database
-$ lando rebuild -y
+$ lando rebuild -y 
 $ lando db-import db-sql
 $ lando drush uli
 ```
