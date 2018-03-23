@@ -1,0 +1,4 @@
+name: lando-sample
+recipe: drupal7
+config:
+  webroot: .
